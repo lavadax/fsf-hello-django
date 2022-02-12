@@ -6,3 +6,4 @@ vscode:
   extensions:
     - esbenp.prettier-vscode
     - formulahendry.auto-close-tag
+    - ms-python.python
